@@ -1,0 +1,3 @@
+{
+  fortune: @rand_fortune
+}
